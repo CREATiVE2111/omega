@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Universe</title>
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	</head>
+	<link rel="stylesheet" href="Style.css">
+ 
+	<body>
+	
+		<h1 id='h1' align="center">КОСМОС</h1>
+		<h2 id='P1str2' >Bceлeннaя – этo oгpoмнeйшee и нeиccлeдoвaннoe мecтo.</h2>
+		
+		<p></p>
+		
+		<p> 
+		<a href="index.html">На главную</a>
+		</p>
+
+		
+
+	</body>
+	</html>
